@@ -1,18 +1,24 @@
 {"INFOS":{
 	"branchs":[
-	"main"
+	"main",
+	"calc-0.1"
 	],"builddate":"19082022",
 	"commits":[
 {
 	"desc":[
 	"Comecaremos o desenvolvimento do codigo principal para chamar as outras funcoes"
 	],"msg":"Insere funcao main() vazia"
+},
+{
+	"desc":[
+	"Esta funcao espera x e y como parametros e retorna um inteiro do calculo de x + y"
+	],"msg":"Cria funcao de soma Add_Num()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
 	"merge":[
-	"main"
+	"calc-0.1"
 	],"sha1":"********************",
 	"version":"1.0.0"
 }
