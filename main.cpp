@@ -30,5 +30,5 @@ int Add_Num(int x, int y){
     @description Esta funcao espera x e y como parametros e retorna um inteiro do calculo de x - y
 */
 int Sub_Num(int x, int y){
-    return x + y;
+    return x - y;
 }
