@@ -3,10 +3,11 @@
     Data    : 02/09/2022
     Programa: Calculadora simples em C++ para CMD
 
-    @branch main
-    @commit Insere funcao main() vazia
-    @description Comecaremos o desenvolvimento do codigo principal para chamar as outras funcoes
+    @branch calc-1.0
+    @commit Insere codigo da calculadora no main()
+    @description Incluimos os cabecalhos, declaramos os prototipos das funcoes e criamos o codigo para aceitar entradas do usuario na calculadora do main()
 */
+
 
 #include <iostream>
 #include <stdlib.h>
