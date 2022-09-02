@@ -1,0 +1,31 @@
+{
+    "RULES" : {
+        "max_major": "none",
+        "max_minor": "none",
+        "max_patch": "none"
+    },
+    "INIT" : {
+        "ignore": [".exe", ".obj", ".o", ".dll", ".json", ".md", ".dev", ".win", ".layout", ".gitdock"],
+        "dir": "./"
+    },
+    "EXTENSIONS":{
+        "lang":[
+            {
+                "exts": [".gitdock"],
+                "comments": ["**", "(", ")"]
+            },
+            {
+                "exts": [".c", ".cpp", ".h", ".js"],
+                "comments": ["//", "/*", "*/"]
+            },
+            {
+                "exts": [".asm", ".inc"],
+                "comments": [";"]
+            },
+            {
+                "exts": [".html"],
+                "comments": ["<!--", "-->"]
+            }
+        ]
+    }
+}
