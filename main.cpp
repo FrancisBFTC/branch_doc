@@ -23,3 +23,12 @@ int main(void){
 int Add_Num(int x, int y){
     return x + y;
 }
+
+/*
+    @branch calc-0.2
+    @commit Cria funcao de subtracao Sub_Num()
+    @description Esta funcao espera x e y como parametros e retorna um inteiro do calculo de x - y
+*/
+int Sub_Num(int x, int y){
+    return x + y;
+}
