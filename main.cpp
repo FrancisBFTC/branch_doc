@@ -18,6 +18,9 @@ int Sub_Num(int, int);
 int Mul_Num(int, int);
 int Div_Num(int, int);
 
+// @branch main
+// @commit Atualiza o main com a nova versao
+// @description O repositorio principal agora contem a versao mais recente da calculadora 1.0
 int main(void){
     int op, num1, num2, res;
     char rep = 's';
