@@ -3,7 +3,8 @@
 	"main",
 	"calc-0.1",
 	"calc-0.2",
-	"calc-0.3"
+	"calc-0.3",
+	"calc-0.4"
 	],"builddate":"19082022",
 	"commits":[
 {
@@ -25,12 +26,17 @@
 	"desc":[
 	"Esta funcao espera x e y como parametros e retorna um inteiro do calculo de x * y"
 	],"msg":"Cria funcao de multiplicacao Mul_Num()"
+},
+{
+	"desc":[
+	"Esta funcao espera x e y como parametros e retorna um inteiro do calculo de x / y"
+	],"msg":"Cria funcao de divisao Div_Num()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
 	"merge":[
-	"calc-0.3"
+	"calc-0.4"
 	],"sha1":"********************",
 	"version":"1.0.0"
 }
