@@ -32,3 +32,21 @@ int Add_Num(int x, int y){
 int Sub_Num(int x, int y){
     return x - y;
 }
+
+/*
+    @branch calc-0.3
+    @commit Cria funcao de multiplicacao Mul_Num()
+    @description Esta funcao espera x e y como parametros e retorna um inteiro do calculo de x * y
+*/
+int Mul_Num(int x, int y){
+    return x * y;
+}
+
+/*
+    @branch calc-0.4
+    @commit Cria funcao de divisao Div_Num()
+    @description Esta funcao espera x e y como parametros e retorna um inteiro do calculo de x / y
+*/
+int Div_Num(int x, int y){
+    return x / y;
+}
