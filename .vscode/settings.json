@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "\"*.extension\"": "gitdock",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
