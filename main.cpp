@@ -14,3 +14,12 @@ int main(void){
     
     return 0;    
 }
+
+/*
+    @branch calc-0.1
+    @commit Cria funcao de soma Add_Num()
+    @description Esta funcao espera x e y como parametros e retorna um inteiro do calculo de x + y
+*/
+int Add_Num(int x, int y){
+    return x + y;
+}
