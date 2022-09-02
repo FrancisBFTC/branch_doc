@@ -1,17 +1,53 @@
 {"INFOS":{
 	"branchs":[
-	"main"
+	"main",
+	"calc-0.1",
+	"calc-0.2",
+	"calc-0.3",
+	"calc-0.4",
+	"calc-1.0"
 	],"builddate":"19082022",
 	"commits":[
 {
 	"desc":[
 	"Comecaremos o desenvolvimento do codigo principal para chamar as outras funcoes"
 	],"msg":"Insere funcao main() vazia"
+},
+{
+	"desc":[
+	"Esta funcao espera x e y como parametros e retorna um inteiro do calculo de x + y"
+	],"msg":"Cria funcao de soma Add_Num()"
+},
+{
+	"desc":[
+	"Esta funcao espera x e y como parametros e retorna um inteiro do calculo de x - y"
+	],"msg":"Cria funcao de subtracao Sub_Num()"
+},
+{
+	"desc":[
+	"Esta funcao espera x e y como parametros e retorna um inteiro do calculo de x * y"
+	],"msg":"Cria funcao de multiplicacao Mul_Num()"
+},
+{
+	"desc":[
+	"Esta funcao espera x e y como parametros e retorna um inteiro do calculo de x / y"
+	],"msg":"Cria funcao de divisao Div_Num()"
+},
+{
+	"desc":[
+	"Incluimos os cabecalhos, declaramos os prototipos das funcoes e criamos o codigo para aceitar entradas do usuario na calculadora do main()"
+	],"msg":"Insere codigo da calculadora no main()"
+},
+{
+	"desc":[
+	"O repositorio principal agora contem a versao mais recente da calculadora 1.0"
+	],"msg":"Atualiza o main com a nova versao"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
 	"merge":[
+	"calc-1.0",
 	"main"
 	],"sha1":"********************",
 	"version":"1.0.0"

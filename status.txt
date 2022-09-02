@@ -1,14 +1,13 @@
-On branch main
-Your branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
-
+On branch calc-1.0
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
 	modified:   main.cpp
+	modified:   status.txt
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-	status.txt
+	calc.exe
+	main.o
 
 no changes added to commit (use "git add" and/or "git commit -a")
