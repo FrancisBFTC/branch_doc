@@ -1,18 +1,19 @@
 {"INFOS":{
-	"builddate":"19082022",
-	"commits":[
-	
-	],
 	"branchs":[
-
-	],
-	"merge":[
-
-	],
-	"description":"Meu software para Objetivo X",
+	"main"
+	],"builddate":"19082022",
+	"commits":[
+{
+	"desc":[
+	"Comecaremos o desenvolvimento do codigo principal para chamar as outras funcoes"
+	],"msg":"Insere funcao main() vazia"
+}
+	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
-	"sha1":"********************",
+	"merge":[
+	"main"
+	],"sha1":"********************",
 	"version":"1.0.0"
 }
 }
