@@ -85,12 +85,17 @@
 	"desc":[
 
 	],"msg":"Cria prototipo Is_Equals()"
+},
+{
+	"desc":[
+
+	],"msg":"Cria prototipo Is_Diff()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
 	"merge":[
-	"main",
+	"calc-1.3",
 	"main"
 	],"sha1":"********************",
 	"version":"1.0.0"
