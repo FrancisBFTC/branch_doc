@@ -95,6 +95,11 @@
 	"desc":[
 
 	],"msg":"Cria prototipo Is_Number()"
+},
+{
+	"desc":[
+
+	],"msg":"Cria prototipo Is_Char()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
