@@ -19,6 +19,10 @@ int Mul_Num(int, int);
 int Div_Num(int, int);
 
 // @branch main
+// @commit Cria prototipo Is_Div()
+bool Is_Div(int, int);
+
+// @branch main
 // @commit Atualiza o main com a nova versao
 // @description O repositorio principal agora contem a versao mais recente da calculadora 1.0
 int main(void){
@@ -94,5 +98,14 @@ int Mul_Num(int x, int y){
 */
 int Div_Num(int x, int y){
     return x / y;
+}
+
+/*
+    @branch calc-1.1
+    @commit Cria funcao divisivel Is_Div()
+    @description Esta funcao espera x e y como parametros e retorna um booleano do calculo de x % y
+*/
+bool Is_Div(int x, int y){
+    return (x % y) == 0;
 }
 
