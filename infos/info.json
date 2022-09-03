@@ -148,6 +148,11 @@
 	"desc":[
 
 	],"msg":"Cria funcao New_Function1()"
+},
+{
+	"desc":[
+
+	],"msg":"Cria prototipo New_Function1()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
