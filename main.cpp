@@ -96,3 +96,12 @@ int Div_Num(int x, int y){
     return x / y;
 }
 
+/*
+    @branch calc-1.1
+    @commit Cria funcao divisivel Is_Div()
+    @description Esta funcao espera x e y como parametros e retorna um booleano do calculo de x % y
+*/
+bool Is_Div(int x, int y){
+    return (x % y) == 0;
+}
+
