@@ -174,3 +174,11 @@ void New_Function1(){
 
 }
 
+/*
+    @branch calc-1.7
+    @commit Cria funcao New_Function2()
+*/
+void New_Function2(){
+
+}
+
