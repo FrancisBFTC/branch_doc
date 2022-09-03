@@ -46,6 +46,9 @@ void New_Function1();
 // @commit Cria prototipo New_Function2()
 void New_Function2();
 
+// @commit Cria prototipo New_Function3()
+void New_Function3();
+
 // @branch main
 // @commit Atualiza o main com a nova versao
 // @description O repositorio principal agora contem a versao mais recente da calculadora 1.0
