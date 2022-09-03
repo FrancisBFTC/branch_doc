@@ -8,7 +8,8 @@
 	"calc-1.0",
 	"calc-1.1",
 	"calc-1.2",
-	"calc-1.3"
+	"calc-1.3",
+	"calc-1.4"
 	],"builddate":"19082022",
 	"commits":[
 {
@@ -110,12 +111,17 @@
 	"desc":[
 
 	],"msg":"Cria prototipo Test()"
+},
+{
+	"desc":[
+	"Esta funcao espera x e y como parametros e retorna um calculo de x ^ y"
+	],"msg":"Cria funcao Exponencial()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
 	"merge":[
-	"calc-1.3",
+	"calc-1.4",
 	"main"
 	],"sha1":"********************",
 	"version":"1.0.0"
