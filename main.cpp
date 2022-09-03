@@ -122,3 +122,12 @@ bool Is_Div(int x, int y){
     return x > y;
 }
 
+/*
+    @branch calc-1.3
+    @commit Cria funcao menor que Is_Minor()
+    @description Esta funcao espera x e y como parametros e retorna um booleano do calculo de x < y
+*/
+bool Is_Minor(int x, int y){
+    return x < y;
+}
+
