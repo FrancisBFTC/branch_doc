@@ -34,6 +34,9 @@ bool Exponencial(int, int);
 // @commit Cria prototipo Unknown()
 bool Unknown(int);
 
+// @commit Cria prototipo Routh_Hurwitz()
+float Rout_Hurwitz(float, float, float, float);
+
 // @commit Cria ultimo prototipo de hoje LastPrototype()
 bool LastPrototype(int);
 
