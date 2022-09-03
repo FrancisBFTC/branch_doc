@@ -137,6 +137,11 @@
 	"desc":[
 	"Esta funcao espera os floats a, b, c e d como parametros e retorna um calculo de (a * d) - (b * c) / c "
 	],"msg":"Cria funcao Routh_Hurwitz()"
+},
+{
+	"desc":[
+
+	],"msg":"Cria prototipo Routh_Hurwitz()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
