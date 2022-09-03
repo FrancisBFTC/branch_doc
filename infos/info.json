@@ -105,6 +105,11 @@
 	"desc":[
 
 	],"msg":"Cria prototipo Transfer()"
+},
+{
+	"desc":[
+
+	],"msg":"Cria prototipo Test()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
