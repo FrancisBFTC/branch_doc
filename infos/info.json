@@ -75,6 +75,11 @@
 	"desc":[
 
 	],"msg":"Cria prototipo Is_Minor()"
+},
+{
+	"desc":[
+
+	],"msg":"Cria prototipo Is_Equal()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
