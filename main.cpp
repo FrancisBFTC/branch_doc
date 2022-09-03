@@ -30,7 +30,6 @@ bool Is_Major(int, int);
 // @commit Cria prototipo Is_Minor()
 bool Is_Minor(int, int);
 
-
 // @branch main
 // @commit Atualiza o main com a nova versao
 // @description O repositorio principal agora contem a versao mais recente da calculadora 1.0
