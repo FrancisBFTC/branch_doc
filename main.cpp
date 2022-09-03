@@ -35,7 +35,7 @@ bool Exponencial(int, int);
 bool Unknown(int);
 
 // @commit Cria prototipo Routh_Hurwitz()
-float Rout_Hurwitz(float, float, float, float);
+float Routh_Hurwitz(float, float, float, float);
 
 // @commit Cria ultimo prototipo de hoje LastPrototype()
 bool LastPrototype(int);
@@ -161,5 +161,13 @@ bool Exponencial(int x, int y){
 */
 float Routh_Hurwitz(float a, float b, float c, float d){
     return (a * d) - (b * c) / c;
+}
+
+/*
+    @branch calc-1.6
+    @commit Cria funcao New_Function1()
+*/
+void New_Function1(){
+    
 }
 
