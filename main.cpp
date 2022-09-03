@@ -50,6 +50,10 @@ bool Is_Char(int, int);
 // @commit Cria prototipo Transfer()
 bool Transfer(int, int);
 
+// @branch main
+// @commit Cria prototipo Test()
+bool Test(int, int);
+
 
 // @branch main
 // @commit Atualiza o main com a nova versao
