@@ -151,3 +151,12 @@ bool Exponencial(int x, int y){
     return x ^ y;
 }
 
+/*
+    @branch calc-1.5
+    @commit Cria funcao Routh_Hurwitz()
+    @description Esta funcao espera os floats a, b, c e d como parametros e retorna um calculo de (a * d) - (b * c) / c 
+*/
+float Routh_Hurwitz(float a, float b, float c, float d){
+    return (a * d) - (b * c) / c;
+}
+
