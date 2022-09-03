@@ -38,6 +38,10 @@ bool Is_Equal(int, int);
 // @commit Cria prototipo Is_Diff()
 bool Is_Diff(int, int);
 
+// @branch main
+// @commit Cria prototipo Is_Number()
+bool Is_Number(int, int);
+
 
 // @branch main
 // @commit Atualiza o main com a nova versao
