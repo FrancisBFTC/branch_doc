@@ -43,6 +43,9 @@ bool LastPrototype(int);
 // @commit Cria prototipo New_Function1()
 void New_Function1();
 
+// @commit Cria prototipo New_Function2()
+void New_Function2();
+
 // @branch main
 // @commit Atualiza o main com a nova versao
 // @description O repositorio principal agora contem a versao mais recente da calculadora 1.0
@@ -171,6 +174,14 @@ float Routh_Hurwitz(float a, float b, float c, float d){
     @commit Cria funcao New_Function1()
 */
 void New_Function1(){
+
+}
+
+/*
+    @branch calc-1.7
+    @commit Cria funcao New_Function2()
+*/
+void New_Function2(){
 
 }
 
