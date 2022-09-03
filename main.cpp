@@ -13,26 +13,26 @@
 #include <stdlib.h>
 using namespace std;
 
+// @branch main
 int Add_Num(int, int);
 int Sub_Num(int, int);
 int Mul_Num(int, int);
 int Div_Num(int, int);
 
-// @branch main
 // @commit Cria prototipo Is_Div()
 bool Is_Div(int, int);
 
-// @branch main
 // @commit Cria prototipo Is_Major()
 bool Is_Major(int, int);
 
-// @branch main
 // @commit Cria prototipo Is_Minor()
 bool Is_Minor(int, int);
 
-// @branch main
 // @commit Cria prototipo Exponencial()
 bool Exponencial(int, int);
+
+// @commit Cria prototipo Unknown()
+bool Unknown(int);
 
 // @branch main
 // @commit Atualiza o main com a nova versao
