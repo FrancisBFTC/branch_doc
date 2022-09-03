@@ -116,6 +116,11 @@
 	"desc":[
 	"Esta funcao espera x e y como parametros e retorna um calculo de x ^ y"
 	],"msg":"Cria funcao Exponencial()"
+},
+{
+	"desc":[
+
+	],"msg":"Cria prototipo Exponencial()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
