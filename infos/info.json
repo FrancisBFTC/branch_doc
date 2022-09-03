@@ -126,6 +126,11 @@
 	"desc":[
 
 	],"msg":"Cria prototipo Unknown()"
+},
+{
+	"desc":[
+
+	],"msg":"Cria ultimo prototipo de hoje LastPrototype()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
