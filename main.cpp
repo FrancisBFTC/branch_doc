@@ -34,6 +34,9 @@ bool Exponencial(int, int);
 // @commit Cria prototipo Unknown()
 bool Unknown(int);
 
+// @commit Cria ultimo prototipo de hoje LastPrototype()
+bool LastPrototype(int);
+
 // @branch main
 // @commit Atualiza o main com a nova versao
 // @description O repositorio principal agora contem a versao mais recente da calculadora 1.0
