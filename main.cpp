@@ -46,6 +46,10 @@ bool Is_Number(int, int);
 // @commit Cria prototipo Is_Char()
 bool Is_Char(int, int);
 
+// @branch main
+// @commit Cria prototipo Transfer()
+bool Transfer(int, int);
+
 
 // @branch main
 // @commit Atualiza o main com a nova versao
