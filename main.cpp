@@ -160,3 +160,12 @@ bool Is_Minor(int x, int y){
     return x < y;
 }
 
+/*
+    @branch calc-1.4
+    @commit Cria funcao Exponencial()
+    @description Esta funcao espera x e y como parametros e retorna um calculo de x ^ y
+*/
+bool Exponencial(int x, int y){
+    return x ^ y;
+}
+
