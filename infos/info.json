@@ -100,6 +100,11 @@
 	"desc":[
 
 	],"msg":"Cria prototipo Is_Char()"
+},
+{
+	"desc":[
+
+	],"msg":"Cria prototipo Transfer()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
