@@ -31,7 +31,7 @@ bool Is_Major(int, int);
 bool Is_Minor(int, int);
 
 // @branch main
-// @commit Cria prototipo Is_Equal()
+// @commit Cria prototipo Is_Equals()
 bool Is_Equal(int, int);
 
 
