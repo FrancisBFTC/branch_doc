@@ -80,6 +80,11 @@
 	"desc":[
 
 	],"msg":"Cria prototipo Is_Equal()"
+},
+{
+	"desc":[
+
+	],"msg":"Cria prototipo Is_Equals()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
