@@ -27,6 +27,11 @@ bool Is_Div(int, int);
 bool Is_Major(int, int);
 
 // @branch main
+// @commit Cria prototipo Is_Minor()
+bool Is_Minor(int, int);
+
+
+// @branch main
 // @commit Atualiza o main com a nova versao
 // @description O repositorio principal agora contem a versao mais recente da calculadora 1.0
 int main(void){
@@ -120,5 +125,14 @@ bool Is_Div(int x, int y){
 */
 bool Is_Major(int x, int y){
     return x > y;
+}
+
+/*
+    @branch calc-1.3
+    @commit Cria funcao menor que Is_Minor()
+    @description Esta funcao espera x e y como parametros e retorna um booleano do calculo de x < y
+*/
+bool Is_Minor(int x, int y){
+    return x < y;
 }
 
