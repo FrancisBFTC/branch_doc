@@ -23,7 +23,7 @@ int Div_Num(int, int);
 bool Is_Div(int, int);
 
 // @branch main
-// @commit Cria prototipo Is_Major()
+// @commit Cria o prototipo Is_Major()
 bool Is_Major(int, int);
 
 // @branch main
@@ -118,7 +118,7 @@ bool Is_Div(int x, int y){
     @commit Cria funcao maior que Is_Major()
     @description Esta funcao espera x e y como parametros e retorna um booleano do calculo de x > y
 */
-bool Is_Div(int x, int y){
+bool Is_Major(int x, int y){
     return x > y;
 }
 
