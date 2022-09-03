@@ -42,6 +42,10 @@ bool Is_Diff(int, int);
 // @commit Cria prototipo Is_Number()
 bool Is_Number(int, int);
 
+// @branch main
+// @commit Cria prototipo Is_Char()
+bool Is_Char(int, int);
+
 
 // @branch main
 // @commit Atualiza o main com a nova versao
