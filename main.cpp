@@ -23,6 +23,10 @@ int Div_Num(int, int);
 bool Is_Div(int, int);
 
 // @branch main
+// @commit Cria prototipo Is_Major()
+bool Is_Major(int, int);
+
+// @branch main
 // @commit Atualiza o main com a nova versao
 // @description O repositorio principal agora contem a versao mais recente da calculadora 1.0
 int main(void){
