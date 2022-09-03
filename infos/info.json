@@ -7,7 +7,8 @@
 	"calc-0.4",
 	"calc-1.0",
 	"calc-1.1",
-	"calc-1.2"
+	"calc-1.2",
+	"calc-1.3"
 	],"builddate":"19082022",
 	"commits":[
 {
@@ -64,12 +65,17 @@
 	"desc":[
 
 	],"msg":"Cria prototipo Is_Major()"
+},
+{
+	"desc":[
+	"Esta funcao espera x e y como parametros e retorna um booleano do calculo de x < y"
+	],"msg":"Cria funcao menor que Is_Minor()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
 	"merge":[
-	"calc-1.2",
+	"calc-1.3",
 	"main"
 	],"sha1":"********************",
 	"version":"1.0.0"
