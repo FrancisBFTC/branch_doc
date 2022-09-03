@@ -70,6 +70,11 @@
 	"desc":[
 	"Esta funcao espera x e y como parametros e retorna um booleano do calculo de x < y"
 	],"msg":"Cria funcao menor que Is_Minor()"
+},
+{
+	"desc":[
+
+	],"msg":"Cria prototipo Is_Minor()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
