@@ -196,3 +196,11 @@ void New_Function3(){
 
 }
 
+/*
+    @branch calc-1.9
+    @commit Cria funcao New_Function4()
+*/
+void New_Function4(){
+
+}
+
