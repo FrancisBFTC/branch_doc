@@ -207,3 +207,12 @@ void New_Function4(){
 
 }
 
+/*
+    @branch calc-1.10
+    @commit Cria funcao New_Function5()
+    @description Teste de commit da nova funcao
+*/
+void New_Function5(){
+
+}
+
