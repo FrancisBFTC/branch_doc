@@ -229,6 +229,11 @@
 	"desc":[
 	"Teste de commit da nova funcao12"
 	],"msg":"Cria funcao New_Function12()"
+},
+{
+	"desc":[
+	"Teste de commit da nova funcao13"
+	],"msg":"Cria funcao New_Function13()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
