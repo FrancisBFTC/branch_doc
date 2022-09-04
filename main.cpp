@@ -252,4 +252,19 @@ void New_Function8(){
     @description Teste de commit da nova funcao10
 */
 
+/*
+    @commit Cria funcao New_Function11()
+    @description Teste de commit da nova funcao11
+*/
+
+/*
+    @commit Cria funcao New_Function12()
+    @description Teste de commit da nova funcao12
+*/
+
+/*
+    @commit Cria funcao New_Function13()
+    @description Teste de commit da nova funcao13
+*/
+
 
