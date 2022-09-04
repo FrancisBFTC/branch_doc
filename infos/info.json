@@ -16,7 +16,8 @@
 	"calc-1.8",
 	"calc-1.9",
 	"calc-1.10",
-	"calc-1.11"
+	"calc-1.11",
+	"calc-1.12"
 	],"builddate":"19082022",
 	"commits":[
 {
@@ -198,12 +199,17 @@
 	"desc":[
 	"Teste de commit da nova funcao6"
 	],"msg":"Cria funcao New_Function6()"
+},
+{
+	"desc":[
+	"Teste de commit da nova funcao7"
+	],"msg":"Cria funcao New_Function7()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
 	"merge":[
-	"calc-1.11",
+	"calc-1.12",
 	"main"
 	],"sha1":"********************",
 	"version":"1.0.0"
