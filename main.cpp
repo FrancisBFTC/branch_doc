@@ -52,6 +52,9 @@ void New_Function3();
 // @commit Cria prototipo New_Function4()
 void New_Function4();
 
+// @commit Cria prototipo New_Function5()
+void New_Function5();
+
 // @branch main
 // @commit Atualiza o main com a nova versao
 // @description O repositorio principal agora contem a versao mais recente da calculadora 1.0
@@ -206,4 +209,84 @@ void New_Function3(){
 void New_Function4(){
 
 }
+
+/*
+    @branch calc-1.10
+    @commit Cria funcao New_Function5()
+    @description Teste de commit da nova funcao
+*/
+void New_Function5(){
+
+}
+
+/*
+    @branch calc-1.11
+    @commit Cria funcao New_Function6()
+    @description Teste de commit da nova funcao6
+*/
+void New_Function5(){
+
+}
+
+/*
+    @branch calc-1.12
+    @commit Cria funcao New_Function7()
+    @description Teste de commit da nova funcao7
+*/
+void New_Function5(){
+
+}
+
+/*
+    @commit Cria funcao New_Function8()
+    @description Teste de commit da nova funcao8
+*/
+void New_Function8(){
+
+}
+
+/*
+    @commit Cria funcao New_Function9()
+    @description Teste de commit da nova funcao10
+*/
+
+/*
+    @commit Cria funcao New_Function10()
+    @description Teste de commit da nova funcao10
+*/
+
+/*
+    @commit Cria funcao New_Function11()
+    @description Teste de commit da nova funcao11
+*/
+
+/*
+    @commit Cria funcao New_Function12()
+    @description Teste de commit da nova funcao12
+*/
+
+/*
+    @commit Cria funcao New_Function13()
+    @description Teste de commit da nova funcao13
+*/
+
+/*
+    @commit Cria funcao New_Function14()
+    @description Teste de commit da nova funcao14
+*/
+
+/*
+    @commit Cria funcao New_Function15()
+    @description Teste de commit da nova funcao15
+*/
+
+/*
+    @commit Cria funcao New_Function16()
+    @description Teste de commit da nova funcao16
+*/
+
+
+
+
+
 
