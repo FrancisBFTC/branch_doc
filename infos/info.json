@@ -204,13 +204,18 @@
 	"desc":[
 	"Teste de commit da nova funcao7"
 	],"msg":"Cria funcao New_Function7()"
+},
+{
+	"desc":[
+	"Teste de commit da nova funcao8"
+	],"msg":"Cria funcao New_Function8()"
 }
 	],"description":"Meu software para Objetivo X",
 	"fullversion":"1.0.0.202208",
 	"md5":"********************",
 	"merge":[
 	"calc-1.12",
-	"main"
+	"calc-1.12"
 	],"sha1":"********************",
 	"version":"1.0.0"
 }
