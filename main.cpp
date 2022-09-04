@@ -238,4 +238,7 @@ void New_Function5(){
     @commit Cria funcao New_Function8()
     @description Teste de commit da nova funcao8
 */
+void New_Function8(){
+
+}
 
